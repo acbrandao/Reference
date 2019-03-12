@@ -1,11 +1,10 @@
 # Publci data Feeds
 
-This is my reference page for public , semi-public list of data feeds and APIs
 
 [![Creator](https://img.shields.io/badge/Creator-acbrandao.svg)](https://abrandao.com/)brandao
 [![Twitter Follow](https://img.shields.io/twitter/follow/acbrandao.svg?label=Follow&maxAge=2592000)](https://twitter.com/tonyb29)
 
-> A curated list of 
+> This is my reference page for public , semi-public list of data feeds and APIs
 
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -13,6 +12,11 @@ Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome]
 
 * https://github.com/nickrsan/awesome-public-datasets/  
 This list of public data sources was originally compiled here. Sources are collected and tidied from blogs, answers, and user responses.
+
+ * https://github.com/toddmotto/public-apis
+ LArge collectionof API's and Feeds  on a cariety of topics from Animals ... Weather, many of the feeds require an API Key to be used.  some of the more interesting ones include;
+ Website reputation, IconFinder,Google Books,Public Holidays,CryptoCurrency,ExchangeRates,DevelopmentAPI's,Stocks and Finance,Cocktail recipes,GeoCoding,Sports,Transportation
+ 
 
 ## License
 

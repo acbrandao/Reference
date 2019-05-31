@@ -9,6 +9,7 @@ A large list of many API and Datafeeds for all sorts of available public data. S
    
 ## Youtube Channels & Podcasts
   - [YouTube Programming Channles](./youtube_channels.MD)
+  - [Software Dev Podcasts](./podcasts.MD)
    
 ## More online progrmaming links
 - [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199

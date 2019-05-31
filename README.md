@@ -1,8 +1,11 @@
 # My List of reference links and documentation
 
 Below is a list of references, blogs, tutorials and video links that I find very useful
+| -------------:|-------------:|
+|<img src="https://github.com/acbrandao/Reference/blob/master/img/001-nginx.png" width="48"> | <img src="https://github.com/acbrandao/Reference/blob/master/img/027-php.png" width="48">|
+| <img src="https://github.com/acbrandao/Reference/blob/master/img/020-gnu-bash.png" width="48"> | <img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="48"> |
+
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
-![nginx](img/001-nginx.png =250x)
 
 ## List of Feeds and API's
 

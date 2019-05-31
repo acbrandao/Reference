@@ -18,13 +18,12 @@ Useful programming language sites and blog
   
 ### Javascript 
   * http://ejohn.org/apps/learn/
-  *  http://www.codecademy.com/tracks/javascript
-  * http://www.codeschool.com/paths/javascript
+   * http://www.codeschool.com/paths/javascript
   
 ### RegEx
   *  http://regexone.com/lesson/1?
   *  http://regex101.com
-  * http://rubular.com/
+  *  http://rubular.com/
 
   
 ### SQL 

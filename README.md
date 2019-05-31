@@ -5,6 +5,21 @@ Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome]
 
 ## List of Feeds and API's
    *  Datatfeed API [A List of useful API and FEEDS ](./api_feeds.MD)
+   
+##  Programming Language Blogs
+USefule programming language sites and blog
+
+### PHP 
+  *  http://www.sqlzoo.net/
+  
+### Javascript 
+  *  http://www.sqlzoo.net/
+  
+
+  
+### SQL 
+  *  http://www.sqlzoo.net/
+  
 
 ## License
 

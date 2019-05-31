@@ -75,6 +75,7 @@ HTML5 and CSS sites and blogs
 - [CSS Tricks](https://css-tricks.com/) Blog about HTML and CSS techniques
 - [Can I use ](https://caniuse.com/) Web development browser compatability checker
 - [Tympaus](https://tympanus.net/codrops/) Web development blog and new techiques
+- [FlatIcons](https://www.flaticon.com) Image repository and source downloader
 
 ### Javascript
 

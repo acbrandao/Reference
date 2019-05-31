@@ -4,10 +4,10 @@ Below is a list of references, blogs, tutorials and video links that I find very
 
 <p align="center">
   
-<img src="https://github.com/acbrandao/Reference/blob/master/img/001-nginx.png" width="64" style="float: right;">
-<img src="https://github.com/acbrandao/Reference/blob/master/img/027-php.png" width="64" style="float: right;">
-<img src="https://github.com/acbrandao/Reference/blob/master/img/020-gnu-bash.png" width="64" style="float: left;"> 
-<img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="64" style="float: left;">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/001-nginx.png" width="128" style="float: right;">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/027-php.png" width="128" style="float: right;">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/020-gnu-bash.png" width="128" style="float: left;"> 
+<img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="128" style="float: left;">
 </p>
 
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.

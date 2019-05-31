@@ -66,11 +66,26 @@ PHP is a server side web-based scripting language.
 - http://php.net/manual/en/
 - http://phpdeveloper.org/
 
+### HTML5 / CSS
+
+HTML5 and CSS sites and blogs
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) Mozilla developers
+- [HTML Web Fundementals](https://developers.google.com/web/) Google powered WEb development site
+- [CSS Tricks](https://css-tricks.com/) Blog about HTML and CSS techniques
+- [Can I use ](https://caniuse.com/) Web development browser compatability checker
+- [Tympaus](https://tympanus.net/codrops/) Web development blog and new techiques
+
 ### Javascript
 
 JAvascirpt is the standard browser and server side scripting language for the modern web
 
-- http://ejohn.org/apps/learn/
+- [Javascript ::Reddit ](https://www.reddit.com/r/javascript/) Javascript Reddit sub-reddit
+- [TotalJS ](https://blog.totaljs.com/blogs/) Javasacript Blog and News site
+- [VUe.JS ](https://vuejs.org/) Progressive JAvascript Framework
+- [SitePoint Javasctipt](https://www.sitepoint.com/javascript/) Learn JavaScript, jQuery, jQuery UI, jQuery Mobile, Angular.JS
+- [EchoJS](http://www.echojs.com/) Community driven JAvascript development news site
+- [David Walsh Programming ](https://davidwalsh.name/) Blog on JAvascript and assorted programming topics
 
 ### RegEx / JSON
 
@@ -80,6 +95,10 @@ JAvascirpt is the standard browser and server side scripting language for the mo
 ### SQL
 
 - http://www.sqlzoo.net/
+
+### Cloud Services
+
+A look at available cloud services and what they have to offer.
 
 ### Online Software dev utilities
 
@@ -119,6 +138,7 @@ A list of usefule machine learning blogs, tutorials and videos.
 
 ## News on Software development
 
+- [HackerNoon](https://hackernoon.com/) : news about programming , software and IT
 - [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
 - [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
 - [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")

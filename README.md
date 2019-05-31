@@ -1,9 +1,8 @@
 # My List of reference links and documentation
 
-[top_reference]
-
 Below is a list of references, blogs, tutorials and video links that I find very useful
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+![nginx](img/001-nginx.png)
 
 ## List of Feeds and API's
 

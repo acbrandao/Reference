@@ -11,12 +11,18 @@ A large list of many API and Datafeeds for all sorts of available public data. S
 Useful programming language sites and blogs for another .
 You can find another similar list here: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
+## General Software development
+  * http://www.codediesel.com/
+  
 
 ### PHP 
-  *  http://raveren.github.com/kint/
-  * http://phpmd.org/
-  * http://pear.php.net/package/PHP_CodeSniffer/
+  * http://www.planet-php.net/
+  * https://www.reddit.com/r/PHP/
+  * http://blog.zend.com/
+  * https://laravel-news.com/blog
+  * http://phppot.com/
   * http://php.net/manual/en/
+  * http://phpdeveloper.org/
   
 ### Javascript 
   * http://ejohn.org/apps/learn/

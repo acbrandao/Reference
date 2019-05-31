@@ -8,7 +8,8 @@ A large list of many API and Datafeeds for all sorts of available public data. S
    *  Datatfeed API [A List of useful API and FEEDS ](./api_feeds.MD)
    
 ##  Programming Language Blogs
-Useful programming language sites and blog
+Useful programming language sites and blogs for another similar list visit: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+
 
 ### PHP 
   *  http://raveren.github.com/kint/

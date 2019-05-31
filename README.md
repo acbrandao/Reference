@@ -4,7 +4,7 @@ Below is a list of useful links and sites that I find very useful
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## List of Feeds and API's
-   *  Datatfeed API [A List of useful API and FEEDS ](./datafeeds.MD)
+   *  Datatfeed API [A List of useful API and FEEDS ](./api_feeds.MD)
 
 ## License
 

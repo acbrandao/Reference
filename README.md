@@ -21,12 +21,18 @@ A large list of many API and Datafeeds for all sorts of available public data. S
 - [YouTube Programming channels ](./youtube_channels.MD)
 - [Software Dev Podcasts](./podcasts.MD)
 
-## More online progrmaming links
 
-- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
-- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
-- [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
-- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
+## News on Software development
+
+- [HackerNoon](https://hackernoon.com/) : news about programming , software and IT
+- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
+- [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
+- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
+- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
+- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
+- [The Verge](https://www.theverge.com) : More product oriented tech news
+
 
 ## Programming Questions and Answers
 
@@ -144,17 +150,14 @@ A list of usefule machine learning blogs, tutorials and videos.
 - [freeCodeCamp](https://www.freecodecamp.com) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 
-## News on Software development
 
-- [HackerNoon](https://hackernoon.com/) : news about programming , software and IT
-- [Hacker News](https://news.ycombinator.com) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-- [Reddit.com/r/programming](https://www.reddit.com/r/programming/) : Subreddit with aggregated tech news and articles
-- [Slashdot](https://slashdot.org) : News, Social news (Originally "News for Nerds. Stuff that Matters")
-- [StackShare](https://stackshare.io) : See what tools are popular with developers and companies and read about their technology decisions
-- [TechCrunch](https://techcrunch.com) : dedicated to obsessively profiling startups, reviewing new Internet products, and breaking tech news
-- [The DEV Community](https://dev.to) : Where programmers share ideas and help each other grow.
-- [The Verge](https://www.theverge.com) : More product oriented tech news
 
+## even More online progrmaming links
+
+- [Websites a programmer should visit](https://www.quora.com/What-are-the-best-websites-a-programmer-should-visit/answer/Ashish-Padalkar?srid=OH96) : Response on Quora by ashish2199
+- [Rico's cheatsheets](https://devhints.io) : A set of good cheatsheets
+- [API Documentation](http://devdocs.io) : A one-place well known API Documentation with searchable interface
+- [MDN](https://developer.mozilla.org/en-US/) : A place with all the documentation of the web standards
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)

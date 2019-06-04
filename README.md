@@ -14,7 +14,7 @@ Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome]
 
 ## List of Feeds and API's
 
-A large list of many API and Datafeeds for all sorts of available public data. Such as commuter times, open weather and mappings, etc. - Datatfeed API [A List of useful API and FEEDS ](./api_feeds.MD)
+A large list of many API and Datafeeds for all sorts of available public data. Such as live commuter transit times, open weather, live air traffic, shipping  and mappings, etc. - Datatfeed API [A List of useful API and FEEDS ](./api_feeds.MD)
 
 ## Youtube Channels & Podcasts
 

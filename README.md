@@ -46,6 +46,9 @@ A large list of many API and Datafeeds for all sorts of available public data. S
 Assorted list of useful web full stack development blogs and news site.
   - [9lessons](https://www.9lessons.info/) : assorted Front end development technologies
   - [SitePoint](https://www.sitepoint.com/) :  large community of developers and has content on everything you need to learn as a web developer. 
+  - [CodDrops] (https://tympanus.net/codrops/) : Assorted collections of  blog postings on modern web development
+  - [Designmodo](https://designmodo.com) : Assorted Web UI/UX design ideas and blog postings
+  - [Web Design Ledger ](https://webdesignledger.com/) : Modern web design blog postings
   - [DWB](https://davidwalsh.name/) : A senior experieced developer share his thoughts on modern web dev
   - [Scotch.io](https://scotch.io/) : React, Angular, LAravel focusses on providing insightful tutorials.
   - [A list Apart](https://alistapart.com/) :  carefully-researched and edited articles on cutting-edge topics in the web industry 

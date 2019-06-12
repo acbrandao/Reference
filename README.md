@@ -43,7 +43,16 @@ A large list of many API and Datafeeds for all sorts of available public data. S
 
 ## Programming Language Blogs
 
-Useful programming language sites and blogs for another .
+Assorted list of useful web full stack development blogs and news site.
+  - [9lessons](https://www.9lessons.info/) : assorted Front end development technologies
+  - [SitePoint](https://www.sitepoint.com/) :  large community of developers and has content on everything you need to learn as a web developer. 
+  - [DWB](https://davidwalsh.name/) : A senior experieced developer share his thoughts on modern web dev
+  - [Scotch.io](https://scotch.io/) : React, Angular, LAravel focusses on providing insightful tutorials.
+  - [A list Apart](https://alistapart.com/) :  carefully-researched and edited articles on cutting-edge topics in the web industry 
+  - [Smashing Magazone](https://www.smashingmagazine.com/) : web development blog  almost everything HTML, CSS etc.
+  - [TutorialZine](https://tutorialzine.com/): he website also provides resources on libraries and free templates.
+  
+  
 You can find another similar list here: https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 ## Bash and Shell scripting

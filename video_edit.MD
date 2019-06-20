@@ -11,7 +11,7 @@ pretty substantial system requirements, like 16GB of Memory and a GPU enabled PC
 can beat the price for the free edition. Also like Adobe PRemier , the little brother to Adobe CC PRemeire suite.
 
 *  [Da Vinci Resolve 16] (https://www.blackmagicdesign.com/products/davinciresolve/)   combines editing, Fusion visual effects and motion graphics, color correction and Fairlight audio post, all in a single application. 
-*  [LightWorks]( https://www.lwks.com/ ) The best free video editing software available, for any level of expertise
+*  [LightWorks](https://www.lwks.com/) The best free video editing software available, for any level of expertise
 *  [Adobe Premiere Elements ](https://www.adobe.com/products/premiere-elements.html) a light simpler  version of adobe Premiere for $70
 *  [Adobe PRemiere Pro](https://www.adobe.com/products/premiere.html) Adobes flagship editing software for PC and Mac ($21/month)
 *  [CyberLink Power Director)(https://www.cyberlink.com/index_en_US.html) Another propuler video editor

@@ -21,11 +21,13 @@ can beat the price for the free edition. Also like Adobe PRemier , the little br
 
 Some Music resources of completely free *royalty free* music:
 
+[EpidemicSound)(https://www.epidemicsound.com/)
+
 [Incompetech](http://incompetech.com/music/)
 [Free Music Archive](http://freemusicarchive.org/search/?quicksearch=)
-[ccmixter] (http://dig.ccmixter.org/search?searchp=)
-[Audionautix] (http://audionautix.com/)
-[Purple Planet] (http://www.purple-planet.com/)
+[ccmixter](http://dig.ccmixter.org/search?searchp=)
+[Audionautix](http://audionautix.com/)
+[Purple Planet](http://www.purple-planet.com/)
 [Josh Woodward](https://www.joshwoodward.com/)
 [Youtube Audio Library)(https://www.youtube.com/audiolibrary/music)
 

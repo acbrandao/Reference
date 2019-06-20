@@ -14,7 +14,7 @@ can beat the price for the free edition. Also like Adobe PRemier , the little br
 *  [LightWorks](https://www.lwks.com/) The best free video editing software available, for any level of expertise
 *  [Adobe Premiere Elements ](https://www.adobe.com/products/premiere-elements.html) a light simpler  version of adobe Premiere for $70
 *  [Adobe PRemiere Pro](https://www.adobe.com/products/premiere.html) Adobes flagship editing software for PC and Mac ($21/month)
-*  [CyberLink Power Director)(https://www.cyberlink.com/index_en_US.html) Another propuler video editor
+*  [CyberLink Power Director](https://www.cyberlink.com/index_en_US.html) Another propuler video editor
 
 
 ## Stock Background Music

@@ -1,6 +1,14 @@
 #  VIDEO Editing reference links and documentation
 
 Below is a list of references, software blogs, tutorials and video links related to *video editing*
+<p align="center">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/DaVinci_Resolve_Logo.png" width="128" style="float: left;">   
+<img src="https://github.com/acbrandao/Reference/blob/master/img/adobe-premiere-pro.png" width="128" style="float: right;">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/epidemic-sound-logo-square.png" width="128" style="float: right;">
+<img src="https://github.com/acbrandao/Reference/blob/master/img/final-cut-pro-logo.png" width="128" style="float: left;"> 
+<img src="https://github.com/acbrandao/Reference/blob/master/img/1200px-Adobe_After_Effects_CC_icon.svg.png" width="128" style="float: left;">
+</p>
+
 
 Created by [TonyBrandao](https://twitter.com/tonyb29).
 

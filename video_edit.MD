@@ -1,4 +1,4 @@
-# My List of VIDEO Editing reference links and documentation
+#  VIDEO Editing reference links and documentation
 
 Below is a list of references, software blogs, tutorials and video links related to *video editing*
 

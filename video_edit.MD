@@ -21,8 +21,9 @@ can beat the price for the free edition. Also like Adobe PRemier , the little br
 
 Some Music resources of completely free *royalty free* music:
 
-  * [EpidemicSound)(https://www.epidemicsound.com/)
+  * [EpidemicSound](https://www.epidemicsound.com/)  top quality music and soundtracks
 
+Some alternate free and roayalty free sources
   * [Incompetech](http://incompetech.com/music/)
   * [Free Music Archive](http://freemusicarchive.org/search/?quicksearch=)
   * [ccmixter](http://dig.ccmixter.org/search?searchp=)

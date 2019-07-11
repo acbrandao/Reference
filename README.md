@@ -82,7 +82,7 @@ Go (GoLang) is a modern compiled primarily server side programming language, dev
 ### PHP
 
 PHP is a server side web-based scripting language.
-
+- https://toys.lerdorf.com/  Rasmus creator of PHP blog
 - http://www.planet-php.net/
 - https://www.reddit.com/r/PHP/
 - http://www.codediesel.com/

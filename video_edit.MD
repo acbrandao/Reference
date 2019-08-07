@@ -40,6 +40,13 @@ Some alternate free and roayalty free sources
   * [Josh Woodward](https://www.joshwoodward.com/)
   * [Youtube Audio Library)(https://www.youtube.com/audiolibrary/music)
 
+## FFMPEG Recipies
+
+Resample a 4k video into 1080 with variable bit rate.. 
+ '''
+ ffmpeg -i input.MP4 -vf scale=1920:1080 -c:v libx264 -crf 20 output.mp4  
+'''
+
 
 ## Stock video clips / tranisitons and filters Video Clips
 

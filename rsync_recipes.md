@@ -46,7 +46,7 @@ The following command will transfer or sync all the files of from one directory 
 
 Copy a Directory from * Local Server **TO  a Remote Server**
 
-`rsync -avz -progress /var/www/ root@10.0.1.90:/var/www`
+`rsync -avz --progress /var/www/ root@10.0.1.90:/var/www`
 
 or
 

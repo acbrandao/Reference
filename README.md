@@ -95,6 +95,7 @@ PHP is a server side web-based scripting language.
 
 HTML5 and CSS sites and blogs
 
+- [HTML5 Responsive Templates](https://html5up.net/  )  HTML5UP tempaltes
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) Mozilla developers
 - [HTML Web Fundementals](https://developers.google.com/web/) Google powered WEb development site
 - [CSS Tricks](https://css-tricks.com/) Blog about HTML and CSS techniques

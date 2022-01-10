@@ -15,7 +15,7 @@ Below is a list of references, blogs, tutorials and video links that I find very
   - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 
   - Beautiful.ai : https://www.beautiful.ai AI Slide deck generator
   - Hotpot.ai : https://hotpot.ai
-  - Deep-nostalgia : https://www.myheritage.com/deep-nosta... AI Animated thumnails from photos
+  - Deep-nostalgia : https://www.myheritage.com/deep-nostalgia AI Animated thumnails from photos
   - Pfpmaker: https://pfpmaker.com   AI Social profile picture maker
   - Brandmark.io: https://brandmark.io  AI Logo generator
   - deep-image.ai: https://deep-image.ai  AI Image re-scaller

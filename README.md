@@ -10,6 +10,19 @@ Below is a list of references, blogs, tutorials and video links that I find very
 <img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="128" style="float: left;">
 </p>
 
+## List of Free AI Powered websites 
+
+  - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 
+  - Beautiful.ai : https://www.beautiful.ai
+  - Hotpot.ai : https://hotpot.ai
+  - Deep-nostalgia : https://www.myheritage.com/deep-nosta... AI Animated thumnails from photos
+  - Pfpmaker: https://pfpmaker.com   AI Social profile picture maker
+  - Brandmark.io: https://brandmark.io  AI Logo generator
+  - deep-image.ai: https://deep-image.ai  AI Image re-scaller
+  - Bigjpg: https://bigjpg.com   AI Image re-scaller  
+  - Lumen5: https://lumen5.com   Brand and Logo generation
+  - Namelix: https://namelix.com  AI Business name generation
+
 Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## List of Feeds and API's

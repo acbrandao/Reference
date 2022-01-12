@@ -10,6 +10,26 @@ Below is a list of references, blogs, tutorials and video links that I find very
 <img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="128" style="float: left;">
 </p>
 
+## List of Free Creative Stock Photography sites 
+  - http://deathtothestockphoto.com/
+  - http://unsplash.com/
+  - http://www.imcreator.com/free
+  - http://pixabay.com/
+  - http://getrefe.tumblr.com/
+  - http://www.stockvault.net/
+  - http://www.gratisography.com/
+  - http://www.rgbstock.com/
+  - http://nos.twnsnd.co/
+  - http://splitshire.com/
+  - http://littlevisuals.co/
+  - http://picjumbo.com/
+  - http://compfight.com/
+  - http://foter.com/
+  - http://superfamous.com/
+  - http://www.lifeofpix.com/
+  - http://pickupimage.com/
+  - http://snapographic.com/
+
 ## List of Free AI Powered websites 
 
   - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 

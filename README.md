@@ -10,6 +10,20 @@ Below is a list of references, blogs, tutorials and video links that I find very
 <img src="https://github.com/acbrandao/Reference/blob/master/img/029-javascript.png" width="128" style="float: left;">
 </p>
 
+
+## List of Free AI Powered websites 
+
+  - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 
+  - Beautiful.ai : https://www.beautiful.ai AI Slide deck generator
+  - Hotpot.ai : https://hotpot.ai
+  - Deep-nostalgia : https://www.myheritage.com/deep-nostalgia AI Animated thumnails from photos
+  - Pfpmaker: https://pfpmaker.com   AI Social profile picture maker
+  - Brandmark.io: https://brandmark.io  AI Logo generator
+  - deep-image.ai: https://deep-image.ai  AI Image re-scaller
+  - Bigjpg: https://bigjpg.com   AI Image re-scaller  
+  - Lumen5: https://lumen5.com   Brand and Logo generation
+  - Namelix: https://namelix.com  AI Business name generation
+
 ## List of Free Creative Stock Photography sites 
   - http://deathtothestockphoto.com/
   - http://unsplash.com/
@@ -30,20 +44,7 @@ Below is a list of references, blogs, tutorials and video links that I find very
   - http://pickupimage.com/
   - http://snapographic.com/
 
-## List of Free AI Powered websites 
 
-  - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 
-  - Beautiful.ai : https://www.beautiful.ai AI Slide deck generator
-  - Hotpot.ai : https://hotpot.ai
-  - Deep-nostalgia : https://www.myheritage.com/deep-nostalgia AI Animated thumnails from photos
-  - Pfpmaker: https://pfpmaker.com   AI Social profile picture maker
-  - Brandmark.io: https://brandmark.io  AI Logo generator
-  - deep-image.ai: https://deep-image.ai  AI Image re-scaller
-  - Bigjpg: https://bigjpg.com   AI Image re-scaller  
-  - Lumen5: https://lumen5.com   Brand and Logo generation
-  - Namelix: https://namelix.com  AI Business name generation
-
-Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## List of Feeds and API's
 
@@ -210,3 +211,4 @@ A list of usefule machine learning blogs, tutorials and videos.
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [[Back to Top](#top_reference)]
+Created by [TonyBrandao](https://twitter.com/tonyb29). Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.

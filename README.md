@@ -11,8 +11,9 @@ Below is a list of references, blogs, tutorials and video links that I find very
 </p>
 
 
-## List of Free AI Powered websites 
+## List of Free AI Powered (Photo/Content) websites 
 
+  - Remove.bg : https://www.remove.bg/  Smart AI Background rmeover
   - Copy.ai : https://www.copy.ai   AI Generated boilerplate content 
   - Beautiful.ai : https://www.beautiful.ai AI Slide deck generator
   - Hotpot.ai : https://hotpot.ai
